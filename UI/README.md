@@ -59,11 +59,27 @@ Let us know what you think and what we can improve below. And good luck with dev
 
 ## :cloud: Build Setup
 
-### install dependencies
+
+
+**Note: our user interface is designed based on this project. To quickly run it,  follow step 1~step 3.**  
+
+
+
+### step 1: install dependencies
+
 `npm install`
-### serve with hot reload at localhost:8080
+
+### step 2: serve with hot reload at localhost:8080
 `npm run dev`
-### build for production with minification
+
+### step 3: run the model on serve
+
+`cd part_sketch_server`
+`python sketch_server.py`  
+
+Then you can sketch on the UI and generate 3D models.
+
+### step 4: build for production with minification
 `npm run build`
 
 - [Download from Github](https://github.com/creativetimofficial/vue-material-dashboard/archive/master.zip).
