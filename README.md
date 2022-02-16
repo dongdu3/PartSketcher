@@ -4,7 +4,7 @@
 Dong Du, Heming Zhu, [Yinyu Nie](https://yinyunie.github.io/), [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/), [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)  
 In COMPUTER GRAPHICS forum (CGF), 2021.  
 
-<img src="figures/pipeline.png" alt="teaser" style="zoom:25%;" />
+<img src="figures/pipeline.png" alt="teaser" style="zoom:23%;" />
 
 ---
 
