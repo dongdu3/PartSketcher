@@ -52,7 +52,7 @@ The user interface is designed with [Vue Material Dashboard](https://demos.creat
 
 More introduction about Vue can be found in the [README.md](UI/README.md).  
 
-<img src="figures/ui.png" alt="teaser" style="zoom:10%;" />  
+<img src="figures/ui.png" alt="teaser" style="zoom:5%;" />  
 
 
 
