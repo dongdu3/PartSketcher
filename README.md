@@ -1,7 +1,7 @@
 # PartSketcher [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14184)[[Video]](https://www.youtube.com/watch?v=-8XBqwz7u5M)
 
 **Learning Part Generation and Assembly for Sketching Man-Made Objects**  
-Dong Du, Heming Zhu, [Yinyu Nie](https://yinyunie.github.io/), [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/), [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)  
+[Dong Du](https://dongdu3.github.io/), Heming Zhu, [Yinyu Nie](https://yinyunie.github.io/), [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/), [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang), [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)  
 In COMPUTER GRAPHICS forum (CGF), 2021.  
 
 <img src="figures/pipeline.png" alt="teaser" style="zoom:24%;" />
