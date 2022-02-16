@@ -13,7 +13,6 @@ In COMPUTER GRAPHICS forum (CGF), 2021.
 This implementation has been tested on Ubuntu 18.04, using CUDA 10.0 and Pythton 3.6.9.  
 
 #### Dependencies
-
 PyTorch==1.2.0  
 pykdtree==1.3.4  
 pymcubes==0.1.2  
@@ -21,9 +20,7 @@ numpy-stl==2.16.3
 npm==3.5.2 (for the user interface)    
 
 
-
 #### Training  
-
 `cd PartSketcher`  
 1. `python train_gen.py`: train sketch-based part generator.  
 2. `python train_ass.py`: train sketch-based part assembler.  
@@ -33,7 +30,6 @@ npm==3.5.2 (for the user interface)
 
 
 #### Testing
-
 `cd PartSketcher`  
 1. `python test_gen.py`: test part generator.  
 2. `python test_ass.py`: test part assembler.  
@@ -42,9 +38,8 @@ npm==3.5.2 (for the user interface)
 
 
 #### User Interface
-
 The user interface is designed with [Vue Material Dashboard](https://demos.creative-tim.com/vue-material-dashboard). It is created by Heming Zhu. You can quickly run it following the three steps:   
-0. Download the pre-trained [checkpoints](https://mailustceducn-my.sharepoint.com/:f:/g/personal/dongdu_mail_ustc_edu_cn/Em0t0u-KIBNAhwSLxTNsW6gB1PIsRb16VKRszGiXxLrZtA?e=ddFbJ9) and put them in `UI/part_sketch_server/checkpoint`. You can also use the models trained by yourself. 
+Download the pre-trained [checkpoints](https://mailustceducn-my.sharepoint.com/:f:/g/personal/dongdu_mail_ustc_edu_cn/Em0t0u-KIBNAhwSLxTNsW6gB1PIsRb16VKRszGiXxLrZtA?e=ddFbJ9) and put them in `UI/part_sketch_server/checkpoint`. You can also use the models trained by yourself. 
 1. `npm install`  
 2. `npm run dev`  
 3. `cd part_sketch_server`  
@@ -52,8 +47,7 @@ The user interface is designed with [Vue Material Dashboard](https://demos.creat
 
 More introduction about Vue can be found in the [README.md](UI/README.md).  
 
-<img src="figures/ui.png" alt="teaser" style="zoom:5%;" />  
-
+<img src="figures/ui.png" alt="teaser" style="zoom:2%;" />  
 
 
 #### Dataset
