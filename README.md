@@ -18,7 +18,8 @@ PyTorch==1.2.0
 pykdtree==1.3.4  
 pymcubes==0.1.2  
 numpy-stl==2.16.3  
-npm==3.5.2 (for the user interface)    
+npm==3.5.2 (For the user interface)  
+libsimplify (Please refer to [Occupancy Networks](https://github.com/autonomousvision/occupancy_networks) to make this library and put it in the folder of "utils". The source files can be found in this [directory](https://github.com/autonomousvision/occupancy_networks/tree/master/im2mesh/utils). )  
 
 
 
