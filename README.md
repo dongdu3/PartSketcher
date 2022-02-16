@@ -14,11 +14,11 @@ This implementation has been tested on Ubuntu 18.04, using CUDA 10.0 and Pythton
 
 #### Dependencies
 
-PyTorch==1.2.0
-pykdtree==1.3.4
-pymcubes==0.1.2
-numpy-stl==2.16.3
-npm==3.5.2 (for the user interface)  
+PyTorch==1.2.0  
+pykdtree==1.3.4  
+pymcubes==0.1.2  
+numpy-stl==2.16.3  
+npm==3.5.2 (for the user interface)    
 
 
 
